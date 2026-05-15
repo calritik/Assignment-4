@@ -5,7 +5,7 @@ A Python program that executes a given list of OS commands and returns structure
 ## Requirements
 
 - Python 3.7+
-- No external dependencies (uses only standard library)
+- No external dependencies
 
 ## Usage
 
