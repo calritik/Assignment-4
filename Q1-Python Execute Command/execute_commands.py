@@ -50,6 +50,6 @@ def execute_commands(commands):
 
 
 if __name__ == "__main__":
-    commands = ["ls", "df", "pwd", "ls", "invalidcmd123", "pwd"]
+    commands = ["dir", "cd", "whoami", "hostname", "invalid_command"]
     output = execute_commands(commands)
     print(json.dumps(output, indent=2))
