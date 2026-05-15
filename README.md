@@ -49,6 +49,9 @@ python execute_commands.py
 - **Fault-tolerant** — if a command fails, execution continues for remaining commands
 - **Structured output** — each result contains `output`, `error`, and `status`
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b7fb122e-b8e1-4889-8567-2dff41f4a38d" />
+<img width="1600" height="509" alt="image" src="https://github.com/user-attachments/assets/cb7594a1-de2b-4d60-ac2a-66fc31fbd15b" />
+
 
 # Q2- Project Euler Solution for Q->67 & 317
 
