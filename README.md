@@ -12,7 +12,7 @@ A Python program that executes a given list of OS commands and returns structure
 ```python
 from execute_commands import execute_commands
 
-commands = ["ls", "df", "pwd", "ls", "invalidcmd123", "pwd"]
+commands = ["dir", "cd", "whoami", "hostname", "invalid_command"]
 results = execute_commands(commands)
 ```
 
